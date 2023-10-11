@@ -3,31 +3,23 @@
         Name: [TEST] FOR AUTOMATION
         ## Test Steps
         
-        1
-        | Test Step Description | Test Step Result |
-        |-----------------------|------------------|
-        |Open a Chrome browser and navigate to SCE test environment.|
-        Verify that SCE application "Sign in" page is displayed|
+        ### Step 1
+        **Description**Open a Chrome browser and navigate to SCE test environment.
+        Verify that SCE application "Sign in" page is displayed
         
 
-        2
-        | Test Step Description | Test Step Result |
-        |-----------------------|------------------|
-        |Login as Registered User (Lead Programmer or Admin) in SCE test environment|
-        Verify that user is able to login successfully and dashboard is displayed with all studies.|
+        ### Step 2
+        **Description**Login as Registered User (Lead Programmer or Admin) in SCE test environment
+        Verify that user is able to login successfully and dashboard is displayed with all studies.
         
 
-        3
-        | Test Step Description | Test Step Result |
-        |-----------------------|------------------|
-        |Navigate to any study and click on  "Access List" from left panel|
-        Verify that "Access List" screen is displayed with list of users in right side page.|
+        ### Step 3
+        **Description**Navigate to any study and click on  "Access List" from left panel
+        Verify that "Access List" screen is displayed with list of users in right side page.
         
 
-        4
-        | Test Step Description | Test Step Result |
-        |-----------------------|------------------|
-        |Click on "Access List History" from Access List and click on "Print" link|
+        ### Step 4
+        **Description**Click on "Access List History" from Access List and click on "Print" link
         1\. Verify that clicking "Print", browser opens the print dialog
 
   
@@ -40,13 +32,11 @@
 
   
 
-**User Story: 261- Print access rights history**|
+**User Story: 261- Print access rights history**
         
 
-        5
-        | Test Step Description | Test Step Result |
-        |-----------------------|------------------|
-        |1\. Verify that clicking Print, browser opens the print dialog
+        ### Step 5
+        **Description**1\. Verify that clicking Print, browser opens the print dialog
 
   
 
@@ -58,13 +48,11 @@
 
   
 
-**User Story: 261- Print access rights history** **bold** not bold|
-        Test Res|
+**User Story: 261- Print access rights history** **bold** not bold
+        Test Res
         
 
-        6
-        | Test Step Description | Test Step Result |
-        |-----------------------|------------------|
-        |Login as Registered User|
-        Login as Registered User (Lead Programmer or Admin) in SCE test environment|
+        ### Step 6
+        **Description**Login as Registered User
+        Login as Registered User (Lead Programmer or Admin) in SCE test environment
         
