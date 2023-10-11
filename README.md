@@ -39,19 +39,19 @@ Name: [TEST] FOR AUTOMATION
  
 |Step |Description | Expected Result|
 |---------|----------------------|----------------|
-|5| 1\. Verify that clicking Print, browser opens the print dialog| 
- | 
-   | 
- | 
- 2\. Verify the print fetches proper layout content and text does not overlap| 
- | 
-   | 
- | 
- 3\. Verify that print access history report data is matched with SCE UI data.| 
- | 
-   | 
- | 
- **User Story: 261- Print access rights history** **bold** not bold|  |  Test Res ||
+|5| 1\. Verify that clicking Print, browser opens the print dialog
+
+  
+
+2\. Verify the print fetches proper layout content and text does not overlap
+
+  
+
+3\. Verify that print access history report data is matched with SCE UI data.
+
+  
+
+**User Story: 261- Print access rights history** **bold** not bold|  |  Test Res ||
 
  
 |Step |Description | Expected Result|
