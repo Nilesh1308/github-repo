@@ -22,18 +22,18 @@ Name: [TEST] FOR AUTOMATION
  
 |Step |Description | Expected Result|
 |---------|----------------------|----------------|
-|4|Click on "Access List History" from Access List and click on "Print" link|1\. Verify that clicking "Print", browser opens the print dialog  |
-|  |
-|    |
-|  |
-|2. Verify the print fetches proper layout content and text does not overlaps  |
-|  |
-|    |
-|  |
-|3\. Verify that print access history report data is matched with SCE UI data.  |
-|  |
-|    |
-|  |
+|4|Click on "Access List History" from Access List and click on "Print" link|1\. Verify that clicking "Print", browser opens the print dialog  
+|  
+|    
+|  
+|2. Verify the print fetches proper layout content and text does not overlaps  
+|  
+|    
+|  
+|3\. Verify that print access history report data is matched with SCE UI data.  
+|  
+|    
+|  
 |**User Story: 261- Print access rights history**|
 
  
