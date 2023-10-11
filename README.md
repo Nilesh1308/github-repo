@@ -1,7 +1,6 @@
 
 # Test Case Details
-ID: 81852
- Name: [TEST] FOR AUTOMATION
+ID: 81852Name: [TEST] FOR AUTOMATION
 ## Test Steps
  
 |Step |Description | Expected Result|
