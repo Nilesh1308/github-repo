@@ -5,9 +5,8 @@ ID: 81852
 Name: [TEST] FOR AUTOMATION
 ## Test Steps
 |Step |Description | Expected Result|
- 
 |---------|----------------------|----------------|
-|1|Open a Chrome browser and navigate to SCE test environment.|Verify that SCE application "Sign in" page is displayed|
+|1|Open a ChromeÂ browser and navigate to SCE test environment.|Verify that SCE application "Sign in" page is displayed|
 
  
 |---------|----------------------|----------------|
@@ -15,11 +14,11 @@ Name: [TEST] FOR AUTOMATION
 
  
 |---------|----------------------|----------------|
-|3|Navigate to any study and click on  "Access List" from left panel|Verify that "Access List" screen is displayed with list of users in right side page.|
+|3|Navigate to anyÂ study and click on Â "Access List" from left panel|Verify that "Access List" screen is displayed with list of users in right side page.|
 
  
 |---------|----------------------|----------------|
-|4|Click on "Access List History" from Access List and click on "Print" link|1\. Verify that clicking "Print", browser opens the print dialog          2. Verify the print fetches proper layout content and text does not overlaps          3\. Verify that print access history report data is matched with SCE UI data.          **User Story: 261- Print access rights history**|
+|4|Click on "Access List History" from Access ListÂ and click on "Print" link|1\. VerifyÂ that clicking "Print", browser opens the print dialog          2.Â VerifyÂ the print fetches proper layout content and text does not overlaps          3\. Verify that print access history report data is matched with SCE UI data.          **User Story: 261-Â Print access rights history**|
 
  
 |---------|----------------------|----------------|
