@@ -4,11 +4,11 @@ ID: 81852
 Name: [TEST] FOR AUTOMATION
 ## Test Steps
         
-### Step 1 |test step description | test step reult|
+|#Step  |test step description | test step reult|
 |----------------------|----------------|
 |Open a Chrome browser and navigate to SCE test environment.|
         
-Verify that SCE application "Sign in" page is displayed|
+|Verify that SCE application "Sign in" page is displayed|
         
 
         ### Step 
