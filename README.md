@@ -8,8 +8,9 @@
         1
         |test step description | test step reult|
         |----------------------|----------------|
-        |Open a Chrome browser and navigate to SCE test environment.|
-        Verify that SCE application "Sign in" page is displayed|
+        |Open a ChromeÂ browser and navigate to SCE test environment.|
+        
+Verify that SCE application "Sign in" page is displayed|
         
 
         ### Step 
@@ -24,20 +25,20 @@
         3
         |test step description | test step reult|
         |----------------------|----------------|
-        |Navigate to any study and click on  "Access List" from left panel|
+        |Navigate to anyÂ study and click on Â "Access List" from left panel|
         Verify that "Access List" screen is displayed with list of users in right side page.|
         
 
-        ### Step 
-        4
-        |test step description | test step reult|
-        |----------------------|----------------|
-        |Click on "Access List History" from Access List and click on "Print" link|
-        1\. Verify that clicking "Print", browser opens the print dialog
+### Step 
+4
+|test step description | test step reult|
+|----------------------|----------------|
+|Click on "Access List History" from Access ListÂ and click on "Print" link|
+1\. VerifyÂ that clicking "Print", browser opens the print dialog
 
   
 
-2. Verify the print fetches proper layout content and text does not overlaps
+2.Â VerifyÂ the print fetches proper layout content and text does not overlaps
 
   
 
@@ -45,7 +46,7 @@
 
   
 
-**User Story: 261- Print access rights history**|
+**User Story: 261-Â Print access rights history**|
         
 
         ### Step 
