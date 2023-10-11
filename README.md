@@ -6,9 +6,7 @@ Name: [TEST] FOR AUTOMATION
         
 |#Step  |test step description | test step reult|
 |-------|----------------------|-------------------------------|
-|1|Open a Chrome browser and navigate to SCE test environment.|
-        
-Verify that SCE application "Sign in" page is displayed|
+|1|Open a Chrome browser and navigate to SCE test environment.|Verify that SCE application "Sign in" page is displayed|
         
 
         ### Step 
