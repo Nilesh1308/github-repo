@@ -1,7 +1,7 @@
 
         ID: 81852
         Name: [TEST] FOR AUTOMATION
-        ## Test Steps
+        ##Test Steps
         
         1
         Open a Chrome browser and navigate to SCE test environment.
