@@ -6,6 +6,7 @@ Name: [TEST] FOR AUTOMATION
 ## Test Steps
 |Step |Description | Expected Result|
 |---------|----------------------|----------------|
+
 |1|Open a Chrome browser and navigate to SCE test environment.|Verify that SCE application "Sign in" page is displayed|
 |2|Login as Registered User (Lead Programmer or Admin) in SCE test environment|Verify that user is able to login successfully and dashboard is displayed with all studies.|
 |3|Navigate to any study and click on  "Access List" from left panel|Verify that "Access List" screen is displayed with list of users in right side page.|
