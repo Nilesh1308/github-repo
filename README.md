@@ -4,22 +4,26 @@
         ## Test Steps
         
         ### Step 1
-        **Description**Open a Chrome browser and navigate to SCE test environment.
+        |
+        Open a Chrome browser and navigate to SCE test environment.
         Verify that SCE application "Sign in" page is displayed
         
 
         ### Step 2
-        **Description**Login as Registered User (Lead Programmer or Admin) in SCE test environment
+        |
+        Login as Registered User (Lead Programmer or Admin) in SCE test environment
         Verify that user is able to login successfully and dashboard is displayed with all studies.
         
 
         ### Step 3
-        **Description**Navigate to any study and click on  "Access List" from left panel
+        |
+        Navigate to any study and click on  "Access List" from left panel
         Verify that "Access List" screen is displayed with list of users in right side page.
         
 
         ### Step 4
-        **Description**Click on "Access List History" from Access List and click on "Print" link
+        |
+        Click on "Access List History" from Access List and click on "Print" link
         1\. Verify that clicking "Print", browser opens the print dialog
 
   
@@ -36,7 +40,8 @@
         
 
         ### Step 5
-        **Description**1\. Verify that clicking Print, browser opens the print dialog
+        |
+        1\. Verify that clicking Print, browser opens the print dialog
 
   
 
@@ -53,6 +58,7 @@
         
 
         ### Step 6
-        **Description**Login as Registered User
+        |
+        Login as Registered User
         Login as Registered User (Lead Programmer or Admin) in SCE test environment
         
