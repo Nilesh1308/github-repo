@@ -8,7 +8,7 @@ Name: [TEST] FOR AUTOMATION
 |-------|----------------------|----------------|
 |1|Open a Chrome browser and navigate to SCE test environment.|
         
-Verify that SCE application "Sign in" page is displayed|
+|Verify that SCE application "Sign in" page is displayed|
         
 
         ### Step 
