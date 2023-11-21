@@ -6,10 +6,10 @@ Name: TC24912_SCE_OQ_SASProgramExecution
 ## Test Steps
 |Step |Description | Expected Result|
 |---------|----------------------|----------------| 
-|1|Login to SCE with user "user\_A" and navigate to the "programs" folder study "study\_A"|User should be navigated to the "programs" folder| 
+|1|Login to SCE with user "user\_A" and navigate to the "programs" folder |User should be navigated to the "programs" folder| 
 |2|Upload the attached program file "warning\_error\_prog.sas" to the "programs" folder|The program file should be uploaded| 
 |3|Execute the above mentioned SAS Program|The program execution should fail.| 
-|4|After navigating to the program Run History and clicking on the respective program execution number, verify the color codes of error message and stack trace|\- The run details should show the error message ("Input not found") in red color<br><br>\- The Stack Trace should be shown in a different color (dark brown color)<br><br>\[US#24040\]| 
+|4|After navigating to the program sample text Run History and clicking on the respective program execution number, verify the color codes of error message and stack trace|\- The run details should show the error message ("Input not found") in red color<br><br>\- The Stack Trace should be shown in a different color (dark brown color)<br><br>\[US#24040\]| 
 |5|Now create a folder "data" under the study and then upload the file "raw\_dm.sas7bdat".|The file should be successfully uploaded under the newly created folder "data"| 
 |6|Now, again execute the above mentioned SAS Program "warning\_error\_prog.sas"|The program execution should fail.| 
 |7|After navigating to the program Run History and clicking on the corresponding program execution number, verify the color codes of error and warning messages|\- The run details should show the error message  in red color<br><br>\- The warning message should be shown in orange color<br><br>\[US#24040\]| 
